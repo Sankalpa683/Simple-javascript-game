@@ -13,7 +13,7 @@
 		overflow: hidden;
 	}
 	#player{
-		width: 183px;
+		width: 143px;
 		position: relative;
 		top: 420px;
 		left: 60px;
@@ -70,7 +70,7 @@
 </style>
 <body>
 	<div id="container">
-		<img src="mandel.png" id="player">
+		<img src="character.png" id="player">
 	</div>
 
 	<div id="villain">
